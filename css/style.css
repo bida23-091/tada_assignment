@@ -54,7 +54,7 @@
 
 /*=========body=============*/
 .body{
-    background-image: url('avengers-infinity-war_bg.jpg');
+    background-image: url('../avengers-infinity-war_bg.jpg');
     background-repeat: no-repeat;
     width: 100%;
     height: 100vh;
